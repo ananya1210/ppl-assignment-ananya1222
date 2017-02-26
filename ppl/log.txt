@@ -1,0 +1,164 @@
+Feb 26, 2017 3:57:24 PM ppl.MyLogger logger
+INFO: Boy: B0 is committed with Girl: G2
+Feb 26, 2017 3:57:24 PM ppl.MyLogger logger
+INFO: Boy: B1 is committed with Girl: G3
+Feb 26, 2017 3:57:24 PM ppl.MyLogger logger
+INFO: Boy: B2 is committed with Girl: G4
+Feb 26, 2017 3:57:24 PM ppl.MyLogger logger
+INFO: Boy: B6 is committed with Girl: G1
+Feb 26, 2017 3:57:24 PM ppl.MyLogger logger
+INFO: Boy: B10 is committed with Girl: G5
+Feb 26, 2017 3:57:24 PM ppl.MyLogger logger
+INFO: Boy: B12 is committed with Girl: G7
+Feb 26, 2017 3:57:24 PM ppl.MyLogger logger
+INFO: Boy: B13 is committed with Girl: G6
+Feb 26, 2017 6:03:58 PM ppl.MyLogger logger
+INFO: Boy: B0 is committed with Girl: G0
+Feb 26, 2017 6:03:58 PM ppl.MyLogger logger
+INFO: Boy: B1 is committed with Girl: G4
+Feb 26, 2017 6:03:58 PM ppl.MyLogger logger
+INFO: Boy: B3 is committed with Girl: G3
+Feb 26, 2017 6:03:58 PM ppl.MyLogger logger
+INFO: Boy: B5 is committed with Girl: G1
+Feb 26, 2017 6:03:58 PM ppl.MyLogger logger
+INFO: Boy: B6 is committed with Girl: G2
+Feb 26, 2017 6:03:58 PM ppl.MyLogger logger
+INFO: Boy: B12 is committed with Girl: G5
+Feb 26, 2017 6:03:58 PM ppl.MyLogger logger
+INFO: Boy: B13 is committed with Girl: G6
+Feb 26, 2017 6:03:58 PM ppl.MyLogger logger
+INFO: Boy: B18 is committed with Girl: G7
+Feb 26, 2017 6:12:56 PM ppl.MyLogger logger
+INFO: Boy: B0 is committed with Girl: G2
+Feb 26, 2017 6:12:56 PM ppl.MyLogger logger
+INFO: Boy: B2 is committed with Girl: G5
+Feb 26, 2017 6:12:56 PM ppl.MyLogger logger
+INFO: Boy: B13 is committed with Girl: G6
+Feb 26, 2017 6:12:56 PM ppl.MyLogger logger
+INFO: Boy: B14 is committed with Girl: G0
+Feb 26, 2017 6:12:56 PM ppl.MyLogger logger
+INFO: Boy: B16 is committed with Girl: G7
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B1 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B2 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B3 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B4 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B5 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B6 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B10 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B11 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B13 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B14 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B16 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B17 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B19 is committed with Girl: G0
+Feb 26, 2017 9:15:45 PM ppl.MyLogger logger
+INFO: Boy: B7 is committed with Girl: G4
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B1 is committed with Girl: G0
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B7 is committed with Girl: G0
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B10 is committed with Girl: G0
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B11 is committed with Girl: G0
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B17 is committed with Girl: G0
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B18 is committed with Girl: G0
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B2 is committed with Girl: G2
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B3 is committed with Girl: G2
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B8 is committed with Girl: G2
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B9 is committed with Girl: G2
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B15 is committed with Girl: G2
+Feb 26, 2017 10:40:55 PM ppl.MyLogger logger
+INFO: Boy: B12 is committed with Girl: G4
+Feb 26, 2017 11:07:09 PM ppl.MyLogger logger
+INFO: Boy: B12 is committed with Girl: G0
+Feb 26, 2017 11:07:10 PM ppl.MyLogger logger
+INFO: Boy: B0 is committed with Girl: G1
+Feb 26, 2017 11:07:10 PM ppl.MyLogger logger
+INFO: Boy: B18 is committed with Girl: G2
+Feb 26, 2017 11:07:10 PM ppl.MyLogger logger
+INFO: Boy: B1 is committed with Girl: G3
+Feb 26, 2017 11:07:10 PM ppl.MyLogger logger
+INFO: Boy: B4 is committed with Girl: G4
+Feb 26, 2017 11:07:10 PM ppl.MyLogger logger
+INFO: Boy: B3 is committed with Girl: G5
+Feb 26, 2017 11:16:10 PM ppl.MyLogger logger
+INFO: Boy: B2 is committed with Girl: G0
+Feb 26, 2017 11:16:10 PM ppl.MyLogger logger
+INFO: Boy: B5 is committed with Girl: G2
+Feb 26, 2017 11:16:10 PM ppl.MyLogger logger
+INFO: Boy: B8 is committed with Girl: G3
+Feb 26, 2017 11:16:10 PM ppl.MyLogger logger
+INFO: Boy: B0 is committed with Girl: G5
+Feb 26, 2017 11:16:10 PM ppl.MyLogger logger
+INFO: Boy: B9 is committed with Girl: G6
+Feb 26, 2017 11:23:56 PM ppl.MyLogger logger
+INFO: Boy: B5 is committed with Girl: G0
+Feb 26, 2017 11:23:56 PM ppl.MyLogger logger
+INFO: Boy: B6 is committed with Girl: G1
+Feb 26, 2017 11:23:56 PM ppl.MyLogger logger
+INFO: Boy: B9 is committed with Girl: G2
+Feb 26, 2017 11:23:56 PM ppl.MyLogger logger
+INFO: Boy: B0 is committed with Girl: G3
+Feb 26, 2017 11:23:56 PM ppl.MyLogger logger
+INFO: Boy: B13 is committed with Girl: G4
+Feb 26, 2017 11:23:56 PM ppl.MyLogger logger
+INFO: Boy: B11 is committed with Girl: G5
+Feb 26, 2017 11:26:52 PM ppl.MyLogger logger
+INFO: Boy: B0 is committed with Girl: G0
+Feb 26, 2017 11:26:52 PM ppl.MyLogger logger
+INFO: Boy: B2 is committed with Girl: G1
+Feb 26, 2017 11:26:52 PM ppl.MyLogger logger
+INFO: Boy: B4 is committed with Girl: G2
+Feb 26, 2017 11:26:52 PM ppl.MyLogger logger
+INFO: Boy: B8 is committed with Girl: G3
+Feb 26, 2017 11:26:52 PM ppl.MyLogger logger
+INFO: Boy: B9 is committed with Girl: G4
+Feb 26, 2017 11:26:52 PM ppl.MyLogger logger
+INFO: Boy: B5 is committed with Girl: G5
+Feb 26, 2017 11:26:52 PM ppl.MyLogger logger
+INFO: Boy: B7 is committed with Girl: G6
+Feb 26, 2017 11:27:14 PM ppl.MyLogger logger
+INFO: Boy: B3 is committed with Girl: G0
+Feb 26, 2017 11:27:14 PM ppl.MyLogger logger
+INFO: Boy: B1 is committed with Girl: G1
+Feb 26, 2017 11:27:14 PM ppl.MyLogger logger
+INFO: Boy: B4 is committed with Girl: G2
+Feb 26, 2017 11:27:14 PM ppl.MyLogger logger
+INFO: Boy: B9 is committed with Girl: G4
+Feb 26, 2017 11:33:52 PM ppl.MyLogger logger
+INFO: Boy: B0 is committed with Girl: G0
+Feb 26, 2017 11:33:52 PM ppl.MyLogger logger
+INFO: Boy: B5 is committed with Girl: G1
+Feb 26, 2017 11:33:52 PM ppl.MyLogger logger
+INFO: Boy: B1 is committed with Girl: G5
+Feb 26, 2017 11:45:05 PM ppl.MyLogger logger
+INFO: Boy: B6 is committed with Girl: G0
+Feb 26, 2017 11:45:05 PM ppl.MyLogger logger
+INFO: Boy: B5 is committed with Girl: G1
+Feb 26, 2017 11:45:05 PM ppl.MyLogger logger
+INFO: Boy: B9 is committed with Girl: G2
+Feb 26, 2017 11:45:05 PM ppl.MyLogger logger
+INFO: Boy: B10 is committed with Girl: G4
+Feb 26, 2017 11:45:05 PM ppl.MyLogger logger
+INFO: Boy: B15 is committed with Girl: G5
