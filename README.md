@@ -6,9 +6,9 @@ Class diagram in respective folders
 
 Documentation is in dist folder.
 
-TO RUN on UBUNTU:
+To Run on UBUNTU:
 
-THE COMMAND IS IN THE README.txt IN THE RESPECTIVE FOLDER
+The Command is in the README.txt in the respective folder
 
 Build System :
 
